@@ -1,7 +1,6 @@
 import random
 x = random.randint(0,1000000)
 print(x)
-"322277"
 div = 1000000
 while x > 0 and div >= 1:
    if x >= div:
