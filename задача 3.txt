@@ -1,6 +1,6 @@
-print ("Сколько тебе лет?")
+print (" How old are you? ")
 age=int (input ())
 if age >=18:
-    print("Доступ разрешен")
+    print(" Welcom ")
 else:
-    print ("Отказано")
+    print (" Sorry, bye ")
