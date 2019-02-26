@@ -1,0 +1,8 @@
+a = input(' Insert the number ')
+b = input(' Insert another number ')
+c = ''
+c = a
+a = b
+b = c
+print(a)
+print(b)
