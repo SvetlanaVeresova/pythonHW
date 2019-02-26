@@ -1,6 +1,0 @@
-print (" How old are you? ")
-age=int (input ())
-if age >=18:
-    print(" Welcom ")
-else:
-    print (" Sorry, bye ")
