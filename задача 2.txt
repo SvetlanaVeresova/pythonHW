@@ -1,5 +1,5 @@
-a = input(' ¬ведите число ')
-b = input(' ¬ведите другое число ')
+a = input(' Insert the number ')
+b = input(' Insert another number ')
 c = ''
 c = a
 a = b
